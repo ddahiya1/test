@@ -5,3 +5,4 @@ file1 data with basic git commands
 
 git init
 git clone
+mkdir
