@@ -8,4 +8,6 @@ git rebasing
 git cherry-pick
 
 git rebase -i
+
+git stash
 git alias
