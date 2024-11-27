@@ -11,5 +11,10 @@ git squash
 
 git merge
 git alias
+
+
+git delete branch
+
+git branch name change
 git delete branch
 git prune
