@@ -10,3 +10,5 @@ git cherry-pick
 git squash
 
 git merge
+
+git delete branch
