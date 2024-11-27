@@ -6,3 +6,6 @@ file1 data with basic git commands
 git init
 
 mkdir folder
+
+git clone
+
