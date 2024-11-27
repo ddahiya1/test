@@ -2,3 +2,6 @@ file1 data git session V2
 
 
 file2 data with advanced git commands
+
+
+ git commands session started
