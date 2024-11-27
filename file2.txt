@@ -6,4 +6,6 @@ file2 data with advanced git commands
 git rebasing
 
 git cherry-pick
+
+git rebase -i
 git alias
