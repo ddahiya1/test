@@ -6,3 +6,5 @@ file1 data with basic git commands
 git init
 
 mkdir folder
+
+cd folder  --> soft reset
