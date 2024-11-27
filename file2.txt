@@ -12,3 +12,5 @@ git squash
 git merge
 
 git delete branch
+
+git branch name change
