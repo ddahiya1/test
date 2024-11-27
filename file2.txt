@@ -16,3 +16,5 @@ git delete branch
 git branch name change
 
 git rebase -i
+
+git stash
