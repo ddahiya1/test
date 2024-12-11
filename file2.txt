@@ -6,6 +6,20 @@ file2 data with advanced git commands
 git rebasing
 
 git cherry-pick
+
+git squash
+
+git merge
 git alias
+
+
+git delete branch
+
+git branch name change
+
+git rebase -i
+git delete branch
 git prune
-git squash and merge
+
+
+git stash
