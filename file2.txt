@@ -3,6 +3,8 @@ file2 data with git session V2
 
 file2 data with advanced git commands
 
+git reflog
+
 git rebasing
 
 git cherry-pick
